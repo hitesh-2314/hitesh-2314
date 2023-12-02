@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hitesh-2314
+- 👋 Hi, I’m @hiteshsharma-gh
 - 👀 I’m interested in web2 and web3 development and artificial intelligence
 - 🌱 I’m currently learning web2 and web3 development
 - 💞️ I’m looking to collaborate on web2 and web3 development
